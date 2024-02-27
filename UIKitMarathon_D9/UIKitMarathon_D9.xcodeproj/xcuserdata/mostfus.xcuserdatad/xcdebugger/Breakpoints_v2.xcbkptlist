@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "8C3BEE96-0FEC-45A3-A81E-80A86B9302D1"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "4D5513CB-D0C7-4BDF-BB8A-959E18C95F96"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "UIKitMarathon_D9/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "74"
+            endingLineNumber = "74"
+            landmarkName = "scrollViewWillEndDragging(_:withVelocity:targetContentOffset:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "4D5513CB-D0C7-4BDF-BB8A-959E18C95F96 - 4d584274a05e3cde"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "UIKitMarathon_D9.ViewController.scrollViewWillEndDragging(_: __C.UIScrollView, withVelocity: __C.CGPoint, targetContentOffset: Swift.UnsafeMutablePointer&lt;__C.CGPoint&gt;) -&gt; ()"
+                  moduleName = "UIKitMarathon_D9"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mostfus/Desktop/UIKitMarathonVorobey/UIKitMarathon_D9/UIKitMarathon_D9/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "77"
+                  endingLineNumber = "77"
+                  offsetFromSymbolStart = "392">
+               </Location>
+               <Location
+                  uuid = "4D5513CB-D0C7-4BDF-BB8A-959E18C95F96 - 4d584274a05e3c80"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "UIKitMarathon_D9.ViewController.scrollViewWillEndDragging(_: __C.UIScrollView, withVelocity: __C.CGPoint, targetContentOffset: Swift.UnsafeMutablePointer&lt;__C.CGPoint&gt;) -&gt; ()"
+                  moduleName = "UIKitMarathon_D9"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mostfus/Desktop/UIKitMarathonVorobey/UIKitMarathon_D9/UIKitMarathon_D9/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "75"
+                  endingLineNumber = "75"
+                  offsetFromSymbolStart = "392">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
